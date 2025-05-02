@@ -1,28 +1,32 @@
-# PHP Laravel & Vue (Batch-4)
+# 🌟 50 Mini Projects in HTML, CSS & Vanilla JavaScript
 
-# All Module
+Welcome to my collection of **50 mini web development projects**! This repository is a hands-on journey through the core front-end technologies: **HTML**, **CSS**, and **Vanilla JavaScript**. Each project is designed to sharpen specific web development skills and encourage learning through practice.
 
-| MODULE                              | DESCRIPTION                       | TASK/PROBLEMS |
-| :---------------------------------- | :-------------------------------- | :-----------: |
-| 1. [The Basics(Routing)](Routing-1) | EXAM WEEK (Assignment + LiveTest) |    03 + 03    |
-| 2. [Module - 7](module-7)           | Problem Solving in PHP...         |      02       |
-| 3. [Module - 8](module-8)           | Problem Solving in PHP...         |      02       |
-| 4. [Module - 9](module-9)           | Problem Solving in PHP...         |      03       |
-| 5. [Module - 10](module-10)         | EXAM WEEK (Assignment + LiveTest) |    02 + 02    |
-| 6. [Module - 11](module-11)         | Problem Solving in PHP...         |      02       |
-| 7. [Module - 12](module-12)         | Problem Solving in PHP...         |      04       |
-| 8. [Module - 13](module-13)         | Problem Solving in PHP...         |      03       |
-| 9. [Module - 14](module-14)         | Problem Solving in PHP...         |      03       |
-| 10. [Module - 15](module-15)        | EXAM WEEK (Assignment + LiveTest) |    02 + 02    |
-| 11. [Module - 16](module-16)        | Problem Solving in PHP...         |      02       |
-| 12. [Module - 18](module-18)        | Problem Solving in PHP...         |      02       |
-| 13. [Module - 19](module-19)        | Problem Solving in PHP...         |      02       |
-| 14. [Module - 20](module-20)        | EXAM WEEK (Assignment + LiveTest) |    01 + 02    |
-| 15. [Module - 21](module-21)        | Problem Solving in PHP + JS...    |      02       |
-| 16. [Module - 22](module-22)        | Problem Solving in PHP + JS...    |      04       |
-| 17. [Module - 23](module-23)        | Problem Solving in PHP + JS...    |      02       |
-| 18. [Module - 24](module-24)        | Problem Solving in PHP + JS...    |      02       |
-| 19. [Module - 25](module-25)        | EXAM WEEK (Assignment + LiveTest) |    01 + 01    |
-| 20. [Module - 26](module-26)        | Problem Solving in PHP + JS...    |      02       |
-| 21. [Module - 27](module-27)        | Problem Solving in PHP + JS...    |      02       |
-| 22. [Module - 28](module-28)        | Problem Solving in PHP + JS...    |      02       |
+## 🚀 Project Goals
+
+- Strengthen core HTML/CSS/JavaScript knowledge
+- Build fully functional mini applications
+- Improve problem-solving and logical thinking
+- Practice responsive and interactive UI design
+- Prepare for real-world frontend development challenges
+
+## 🧰 Technologies Used
+
+- HTML5 for semantic and accessible markup
+- CSS3 for styling, layout, and animations
+- Vanilla JavaScript for interactivity and logic (no frameworks or libraries)
+
+## 📂 Project Structure
+
+Each project is placed inside its own folder named `project1`, `project2`, ..., `project50`. Every project is self-contained with its own `index.html`, `style.css`, and optionally `script.js`.
+
+```plaintext
+├── index.html           # Project launcher
+├── project1/
+│   ├── index.html
+│   ├── style.css
+│   └── script.js
+├── project2/
+│   ├── ...
+...
+├── project50/
