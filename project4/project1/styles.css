@@ -1,0 +1,26 @@
+body{
+background-color: aqua;
+text-align: center;
+}
+
+h1{
+margin-top: 10%;
+font-size: 3rem;
+}
+
+button{
+padding: 10px 25px;
+border-radius: 10px;
+background-color: #04AA6D;
+border: none;
+color: white;
+}
+
+button#stop{
+
+background-color: red;
+}
+button#puse{
+
+background-color: blue;
+}
